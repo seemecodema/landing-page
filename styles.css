@@ -3,6 +3,10 @@ body {
     justify-content: center;
 }
 
+.header {
+    align-items: center;
+}
+
 ul {
     list-style-type: none;
 }
