@@ -12,3 +12,8 @@ ul {
 li {
     padding: 20px;
 }
+
+.top-links {
+    display: flex;
+    align-items: flex-end;
+}
