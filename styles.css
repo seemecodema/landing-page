@@ -28,7 +28,7 @@ li {
     display: flex;
     flex-flow: column wrap;
     align-items: baseline;
-    padding: 20px;
+    padding: 100px;
 }
 
 img {
