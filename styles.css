@@ -24,3 +24,8 @@ li {
     flex-flow: column wrap;
     align-items: baseline;
 }
+
+img {
+    size: 400 200;
+    display: flex;
+}
