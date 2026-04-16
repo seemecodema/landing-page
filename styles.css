@@ -26,6 +26,7 @@ li {
 }
 
 img {
-    size: 400px 200px;
+    width: 400px;
+    height: 200px;
     display: flex;
 }
