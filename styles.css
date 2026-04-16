@@ -19,7 +19,7 @@ li {
     padding: 20px;
 }
 
-.container {
+.middle {
     display: flex;
     flex-flow: column wrap;
     align-items: baseline;
