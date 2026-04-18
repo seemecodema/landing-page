@@ -53,6 +53,8 @@ img {
 
 .info {
     max-width: 200px;
+    display: flex;
+    justify-content: center;
 }
 
 .text {
