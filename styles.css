@@ -52,3 +52,7 @@ img {
     margin-left: 100px;
     margin-right: 100px;
 }
+
+.info {
+    max-width: 200px;
+}
