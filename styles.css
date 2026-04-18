@@ -36,9 +36,6 @@ li {
 img {
     width: 100px;
     height: 100px;
-    display: flex;
-    margin-left: 100px;
-    margin-right: 100px;
 }
 
 .title {
