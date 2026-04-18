@@ -54,3 +54,7 @@ img {
 .info {
     max-width: 200px;
 }
+
+.text {
+    text-align: center;
+}
