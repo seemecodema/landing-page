@@ -56,7 +56,7 @@ img {
 .info {
     max-width: 100px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: column;
 }
 
