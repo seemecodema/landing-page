@@ -71,6 +71,6 @@ img {
 .quote {
     display: flex;
     flex-wrap: wrap;
-    max-width: 600px;
+    max-width: 400px;
     margin-left: 300px;
 }
