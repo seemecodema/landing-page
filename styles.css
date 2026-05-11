@@ -84,3 +84,11 @@ img {
     text-align: right;
     margin-right: 400px;
 }
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
