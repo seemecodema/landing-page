@@ -100,8 +100,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 100px;
     background-color: #3882F6;
     padding-left: 75px;
     padding-right: 75px;
