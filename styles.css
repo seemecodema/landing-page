@@ -92,7 +92,8 @@ img {
     margin-left: 100px;
     margin-right: 100px;
     background-color: #3882F6;
-    padding: 75px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 button {
