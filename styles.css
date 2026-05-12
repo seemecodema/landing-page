@@ -45,6 +45,12 @@ li {
 img {
     width: 200px;
     height: 200px;
+}
+
+.rounded {
+    border-style: solid;
+    border-color:#3882F6;
+    border-width: 5px;
     border-radius: 15px;
 }
 
