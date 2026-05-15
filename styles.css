@@ -132,6 +132,7 @@ button {
 
 .border {
     border-color: #F9FAF8;
+    border-style: solid;
 }
 
 .footer {
