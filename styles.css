@@ -6,6 +6,10 @@
     margin-right: 100px;
 }
 
+body {
+    font-family: "Roboto Mono", "Roboto Slab", Roboto;
+}
+
 .logo {
     margin-left: 100px;
 }
