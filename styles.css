@@ -52,6 +52,11 @@ li {
     font-weight: 900;
 }
 
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 img {
     width: 200px;
     height: 200px;
