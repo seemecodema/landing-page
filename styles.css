@@ -46,6 +46,12 @@ li {
     padding: 100px;
 }
 
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
 img {
     width: 200px;
     height: 200px;
