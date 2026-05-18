@@ -110,6 +110,9 @@ img {
     flex-wrap: wrap;
     max-width: 400px;
     margin-left: 300px;
+    font-size: 36px;
+    color: #1F2937;
+    weight: 300;
 }
 
 .thor {
