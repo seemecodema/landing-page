@@ -75,6 +75,9 @@ img {
 .title {
     text-align: center;
     margin: 40px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
 }
 
 .container {
