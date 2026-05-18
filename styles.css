@@ -19,6 +19,7 @@ body {
 .top-links {
     display: flex;
     gap: 16px;
+    color: #F9FAF8;
 }
 
 ul {
