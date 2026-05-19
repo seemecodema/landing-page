@@ -152,6 +152,11 @@ button {
     border-style: solid;
 }
 
+.call {
+    padding: 15px;
+    color: #F9FAF8;
+}
+
 .footer {
     background-color: #1F2937;
     text-align: center;
