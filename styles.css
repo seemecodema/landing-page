@@ -89,7 +89,7 @@ img {
 }
 
 .info {
-    max-width: 150px;
+    max-width: 180px;
     display: flex;
     align-content: space-between;
     flex-direction: column;
