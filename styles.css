@@ -47,6 +47,7 @@ li {
     flex-flow: column wrap;
     align-items: baseline;
     padding: 100px;
+    max-width: 500px;
 }
 
 .hero {
