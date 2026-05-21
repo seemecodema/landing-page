@@ -149,6 +149,7 @@ button {
 
 .no-border {
     border-style: none;
+    margin-top: 10px;
 }
 
 .border {
