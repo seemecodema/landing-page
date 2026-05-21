@@ -158,7 +158,10 @@ button {
 }
 
 .call {
-    padding: 75px;
+    padding-left: 75px;
+    padding-right: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     color: #F9FAF8;
 }
 
