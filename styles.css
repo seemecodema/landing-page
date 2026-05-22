@@ -128,7 +128,7 @@ img {
 
 .bottom {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     margin: 100px;
     background-color: #3882F6;
