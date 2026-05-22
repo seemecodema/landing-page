@@ -111,7 +111,7 @@ img {
 .quote {
     display: flex;
     flex-wrap: wrap;
-    max-width: 800px;
+    max-width: 900px;
     margin-left: 200px;
     font-size: 36px;
     color: #1F2937;
