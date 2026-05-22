@@ -156,6 +156,7 @@ button {
 .border {
     border-color: #F9FAF8;
     border-style: solid;
+    margin-right: 50px;
 }
 
 .call {
